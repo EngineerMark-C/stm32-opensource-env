@@ -1,0 +1,96 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : {},
+				"path" : "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe",
+				"version" : ""
+			},
+			"language" : "ASM",
+			"sourceFileExtensions" : 
+			[
+				"s",
+				"S",
+				"asm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"E:/Scoop/apps/gcc/current/include",
+						"E:/Scoop/apps/gcc-arm-none-eabi/current/lib/gcc/arm-none-eabi/13.3.1/include",
+						"E:/Scoop/apps/gcc-arm-none-eabi/current/lib/gcc/arm-none-eabi/13.3.1/include-fixed",
+						"E:/Scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe",
+				"version" : "13.3.1"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"E:/Scoop/apps/gcc/current/include",
+						"E:/Scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include/c++/13.3.1",
+						"E:/Scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include/c++/13.3.1/arm-none-eabi",
+						"E:/Scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include/c++/13.3.1/backward",
+						"E:/Scoop/apps/gcc-arm-none-eabi/current/lib/gcc/arm-none-eabi/13.3.1/include",
+						"E:/Scoop/apps/gcc-arm-none-eabi/current/lib/gcc/arm-none-eabi/13.3.1/include-fixed",
+						"E:/Scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-g++.exe",
+				"version" : "13.3.1"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

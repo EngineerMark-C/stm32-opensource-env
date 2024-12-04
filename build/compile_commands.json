@@ -1,0 +1,194 @@
+[
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/CORE/core_cm3.c.obj -c D:/code/keill/CORE/core_cm3.c",
+  "file": "D:/code/keill/CORE/core_cm3.c",
+  "output": "CMakeFiles/Project.elf.dir/CORE/core_cm3.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/CORE/startup_stm32f10x_md.s.obj -c D:/code/keill/CORE/startup_stm32f10x_md.s",
+  "file": "D:/code/keill/CORE/startup_stm32f10x_md.s",
+  "output": "CMakeFiles/Project.elf.dir/CORE/startup_stm32f10x_md.s.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/CORE/system_stm32f10x.c.obj -c D:/code/keill/CORE/system_stm32f10x.c",
+  "file": "D:/code/keill/CORE/system_stm32f10x.c",
+  "output": "CMakeFiles/Project.elf.dir/CORE/system_stm32f10x.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/Hardware/OLED.c.obj -c D:/code/keill/Hardware/OLED.c",
+  "file": "D:/code/keill/Hardware/OLED.c",
+  "output": "CMakeFiles/Project.elf.dir/Hardware/OLED.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/Hardware/serial.c.obj -c D:/code/keill/Hardware/serial.c",
+  "file": "D:/code/keill/Hardware/serial.c",
+  "output": "CMakeFiles/Project.elf.dir/Hardware/serial.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/misc.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/misc.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/misc.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/misc.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.c.obj -c D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.c",
+  "file": "D:/code/keill/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.c",
+  "output": "CMakeFiles/Project.elf.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/SYSTEM/Delay.c.obj -c D:/code/keill/SYSTEM/Delay.c",
+  "file": "D:/code/keill/SYSTEM/Delay.c",
+  "output": "CMakeFiles/Project.elf.dir/SYSTEM/Delay.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/SYSTEM/Timer.c.obj -c D:/code/keill/SYSTEM/Timer.c",
+  "file": "D:/code/keill/SYSTEM/Timer.c",
+  "output": "CMakeFiles/Project.elf.dir/SYSTEM/Timer.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/User/main.c.obj -c D:/code/keill/User/main.c",
+  "file": "D:/code/keill/User/main.c",
+  "output": "CMakeFiles/Project.elf.dir/User/main.c.obj"
+},
+{
+  "directory": "D:/code/keill/build",
+  "command": "E:/Scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_HD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -ID:/code/keill/./STM32F10x_StdPeriph_Driver/inc -ID:/code/keill/./User -ID:/code/keill/./SYSTEM -ID:/code/keill/./Hardware -ID:/code/keill/./CORE -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/User/stm32f10x_it.c.obj -c D:/code/keill/User/stm32f10x_it.c",
+  "file": "D:/code/keill/User/stm32f10x_it.c",
+  "output": "CMakeFiles/Project.elf.dir/User/stm32f10x_it.c.obj"
+}
+]

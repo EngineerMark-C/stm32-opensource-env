@@ -1,0 +1,3 @@
+D:/code/keill/build/CMakeFiles/Project.elf.dir
+D:/code/keill/build/CMakeFiles/edit_cache.dir
+D:/code/keill/build/CMakeFiles/rebuild_cache.dir
